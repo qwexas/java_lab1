@@ -1,5 +1,4 @@
 import java.util.*;
-
 class MatrixException extends Exception {
     MatrixException(String s) {
         super(s);
